@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "package": "AdhereR",
+    "oncran": true
+  },
+  {
+    "package": "AdhereRViz",
+    "oncran": true
+  }
+]
