@@ -3,15 +3,15 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "AdhereRViz"]
-	path = AdhereRViz
-	url = https://github.com/ddediu/adherer
-	shallow = true
-	subdir = AdhereRViz
-	registered = true
 [submodule "AdhereR"]
 	path = AdhereR
 	url = https://github.com/ddediu/adherer
 	shallow = true
 	subdir = AdhereR
+	registered = true
+[submodule "AdhereRViz"]
+	path = AdhereRViz
+	url = https://github.com/ddediu/adherer
+	shallow = true
+	subdir = AdhereRViz
 	registered = true
